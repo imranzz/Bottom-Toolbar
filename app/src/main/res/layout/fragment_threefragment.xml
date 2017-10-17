@@ -11,6 +11,12 @@
         android:layout_height="300dp"
         android:layout_centerInParent="true"
         android:src="@drawable/check_red_mark"/>
+    <ImageView
+        android:id="@+id/truiton_image"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/check_red_mark"/>
 
     <TextView
         android:layout_width="wrap_content"
